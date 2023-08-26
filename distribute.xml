@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests" thread-count="2">
+  <test name="Test runner1">
+    <classes>
+      <class name="batchExecution.Test2"/>
+      <class name="batchExecution.Test3"/>
+    </classes>
+    </test><!-- Test-->
+    <test name="Test runner2">
+		<classes>
+     <class name="batchExecution.Test1"/>
+      <class name="batchExecution.Test4"/>
+      </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
