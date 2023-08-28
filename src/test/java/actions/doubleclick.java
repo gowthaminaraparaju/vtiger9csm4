@@ -10,6 +10,10 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
 //this is second workspace
+
+//this is double click operation
+//this is a comment on double click operation
+
 public class doubleclick {
 
 	public static void main(String[] args) {
