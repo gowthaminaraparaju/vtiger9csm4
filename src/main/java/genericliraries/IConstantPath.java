@@ -1,4 +1,5 @@
 package genericliraries;
+//this is used to store all the file paths
 /**
  * This interface is used to store all the external file paths
  * @author gowthami
