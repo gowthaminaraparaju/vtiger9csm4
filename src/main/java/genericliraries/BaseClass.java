@@ -1,5 +1,5 @@
 package genericliraries;
-
+//contains all pre and post conditions
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import org.testng.annotations.AfterClass;
